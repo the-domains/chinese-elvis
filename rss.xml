@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[chinese-elvis]]></title>
+        <description><![CDATA[chinese-elvis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Aug 2016 12:42:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The online home to the UK's most popular award-winning Chinese Elvis impersonator! CHINESEELVIS is the first and only Chinese Elvis registered with the Actor's Union, Equity. He has been a member since 1988. Been here on the internet since 2000. With so many cheap imitations around (made in China, of course), make sure you choose the official and the best..! Hover your mouse around the site to discover secret links and exciting rollover images, including 12 - count 'em - perky breasts...</p>]]></description>
+            <link>undefinedthe-online-home-to-the-uks-most-popular-award-winning-chine/index.html</link>
+            <guid isPermaLink="false">28db8277-b95d-487e-8997-f19183ede772</guid>
+            <pubDate>Tue, 16 Aug 2016 12:42:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
