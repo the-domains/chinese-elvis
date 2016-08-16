@@ -1,6 +1,6 @@
 name: chinese-elvis
 favicon: null
-layout_spectrum: 0.61591
+layout_spectrum: 1
 typography_spectrum: 0.24444
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.75
+    - '#312577'
+    - '#ffffff'
+    - '#e1d239'
+    - '#e04836'
+    - '#3694b0'
+  brandStrength: 0.8125
   lightness: 0.3125
   saturation: 0.6875
   rhythmicContrast: 0.25
